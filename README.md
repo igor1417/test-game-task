@@ -11,7 +11,7 @@
 First, clone the project:
 
 ```bash
-$ git clone https://github.com/davezuko/react-redux-starter-kit.git <my-project-name>
+$ git clone https://github.com/igor1417/test-game-task <my-project-name>
 $ cd <my-project-name>
 $ npm i
 ```
